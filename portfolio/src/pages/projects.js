@@ -8,9 +8,9 @@ const Projects = (props) => {
         <h5 class="card-title">Paper Trading Crypto App</h5>
         <h6 class="card-subtitle mb-2 text-muted">MERN Stack</h6>
         <p class="card-text">A paper cryptocurrency trading app built with a team. </p>
-        <button a href="https://mystifying-villani-51e1b2.netlify.app/" class="card-link">Crypto App</button>
+        <a href="https://mystifying-villani-51e1b2.netlify.app/" class="card-link">Crypto App</a>
         <br></br>
-        <button type='button' a href="https://github.com/KirkBetzina/cryptoApp_frontend/tree/dev" class='"btn btn-dark"'>github</button>
+        <a type='link' href="https://github.com/KirkBetzina/cryptoApp_frontend/tree/dev" class=''>github</a>
         </div>
     </div>
     )
