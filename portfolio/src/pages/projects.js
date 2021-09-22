@@ -7,6 +7,17 @@ const Projects = (props) => {
         <>
             <div class="card-crypto" style={{width: '18rem', border: '1px solid blk'}}>
                 <div class="card-body">
+                <h5 class="card-title">Task Manager Todo App</h5>
+                <h6 class="card-subtitle mb-2 text-muted">FARM Stack</h6>
+                <p class="card-text">Learning a new tech stack and built a simple todo app. FastApi, React and MongoDB. </p>
+                <a href="https://adoring-kepler-8db75b.netlify.app/" class="card-link">Todo App</a>
+                <br></br>
+                <a type='link' href="https://github.com/KirkBetzina/FARM-STACK-FRONTEND" class=''>Front End Github Repo</a>
+                <a type='link' href="https://github.com/KirkBetzina/FARM-STACK-BACKEND" class=''>Back End End Github Repo</a>
+                </div>
+            </div>
+            <div class="card-crypto" style={{width: '18rem', border: '1px solid blk'}}>
+                <div class="card-body">
                 <h5 class="card-title">Paper Trading Crypto App</h5>
                 <h6 class="card-subtitle mb-2 text-muted">MERN Stack</h6>
                 <p class="card-text">A paper cryptocurrency trading app built with a team. </p>
