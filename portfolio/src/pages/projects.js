@@ -5,7 +5,7 @@ const Projects = (props) => {
     
     return(
         <>
-            <div class="card-crypto" style={{width: '18rem', border: '1px solid blk'}}>
+            <div class="card-todo" style={{width: '18rem', border: '1px solid blk'}}>
                 <div class="card-body">
                 <h5 class="card-title">Task Manager Todo App</h5>
                 <h6 class="card-subtitle mb-2 text-muted">FARM Stack</h6>
@@ -13,6 +13,7 @@ const Projects = (props) => {
                 <a href="https://adoring-kepler-8db75b.netlify.app/" class="card-link">Todo App</a>
                 <br></br>
                 <a type='link' href="https://github.com/KirkBetzina/FARM-STACK-FRONTEND" class=''>Front End Github Repo</a>
+                <br></br>
                 <a type='link' href="https://github.com/KirkBetzina/FARM-STACK-BACKEND" class=''>Back End End Github Repo</a>
                 </div>
             </div>
@@ -41,7 +42,6 @@ const Projects = (props) => {
                 <h5 class="card-title">Portfolio Website</h5>
                 <h6 class="card-subtitle mb-2 text-muted">React</h6>
                 <p class="card-text">Hey, you're already here! Check out my code and development process on Github.</p>
-                <a href="" class="card-link"></a>
                 <br></br>
                 <a type='link' href="https://github.com/KirkBetzina/portfolio" class=''>Github Repo</a>
                 </div>
