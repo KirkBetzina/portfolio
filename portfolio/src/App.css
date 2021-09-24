@@ -7,3 +7,6 @@
   background: radial-gradient(circle farthest-corner at center center, #90a6b4 0%, #141923 100%);
 }
 
+.cards {
+ justify-content: center;
+}

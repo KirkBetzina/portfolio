@@ -4,8 +4,8 @@ import React from 'react'
 const Projects = (props) => {
     
     return(
-        <cards className='cards'>
-            <div className="card-todo" style={{width: '18rem'}}>
+        <div className='cards'>
+            <card className="card-todo" style={{width: '18rem'}}>
                 <div className="card-body">
                 <h5 className="card-title">Task Manager Todo App</h5>
                 <h6 className="card-subtitle mb-2 text-muted">FARM Stack</h6>
@@ -16,8 +16,8 @@ const Projects = (props) => {
                 <br></br>
                 <a type='link' href="https://github.com/KirkBetzina/FARM-STACK-BACKEND" className=''>Back End End Github Repo</a>
                 </div>
-            </div>
-            <div className="card-crypto" style={{width: '18rem'}}>
+            </card>
+            <card className="card-crypto" style={{width: '18rem'}}>
                 <div className="card-body">
                 <h5 className="card-title">Paper Trading Crypto App</h5>
                 <h6 className="card-subtitle mb-2 text-muted">MERN Stack</h6>
@@ -26,8 +26,8 @@ const Projects = (props) => {
                 <br></br>
                 <a type='link' href="https://github.com/KirkBetzina/cryptoApp_frontend/tree/dev" className=''>Github Repo</a>
                 </div>
-            </div>
-            <div className="card-war" style={{width: '18rem'}}>
+            </card>
+            <card className="card-war" style={{width: '18rem'}}>
                 <div className="card-body">
                 <h5 className="card-title">Minbean.io Hackathon Cardgame Submission</h5>
                 <h6 className="card-subtitle mb-2 text-muted">MERN Stack</h6>
@@ -36,8 +36,8 @@ const Projects = (props) => {
                 <br></br>
                 <a type='link' href="https://github.com/KirkBetzina/mintbeanCardGame/tree/master" className=''>Github Repo</a>
                 </div>
-            </div>
-            <div className="card-portfolio" style={{width: '18rem'}}>
+            </card>
+            <card className="card-portfolio" style={{width: '18rem'}}>
                 <div className="card-body">
                 <h5 className="card-title">Portfolio Website</h5>
                 <h6 className="card-subtitle mb-2 text-muted">React</h6>
@@ -45,8 +45,8 @@ const Projects = (props) => {
                 <br></br>
                 <a type='link' href="https://github.com/KirkBetzina/portfolio" className=''>Github Repo</a>
                 </div>
-            </div>
-            <div className="card-concert" style={{width: '18rem'}}>
+            </card>
+            <card className="card-concert" style={{width: '18rem'}}>
                 <div className="card-body">
                 <h5 className="card-title">Post Covid Worlwide Concert Tracker</h5>
                 <h6 className="card-subtitle mb-2 text-muted">MERN Stack</h6>
@@ -55,8 +55,8 @@ const Projects = (props) => {
                 <br></br>
                 <a type='link' href="https://github.com/KirkBetzina/react-project-2" className=''>Github Repo</a>
                 </div>
-            </div>
-            <div className="card-macros" style={{width: '18rem'}}>
+            </card>
+            <card className="card-macros" style={{width: '18rem'}}>
                 <div className="card-body">
                 <h5 className="card-title">Macros and Calories Tool</h5>
                 <h6 className="card-subtitle mb-2 text-muted">MERN Stack</h6>
@@ -64,8 +64,8 @@ const Projects = (props) => {
                 <br></br>
                 <a type='link' href="https://github.com/KirkBetzina/Calorie-and-macro-calculation" className=''>Github Read Me</a>
                 </div>
-            </div>
-        </cards>
+            </card>
+        </div>
     )
 }
 export default Projects  
