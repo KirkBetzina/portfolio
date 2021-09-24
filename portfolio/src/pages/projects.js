@@ -4,7 +4,7 @@ import React from 'react'
 const Projects = (props) => {
     
     return(
-        <>
+        <cards>
             <div class="card-todo" style={{width: '18rem', border: '1px solid blk'}}>
                 <div class="card-body">
                 <h5 class="card-title">Task Manager Todo App</h5>
@@ -65,7 +65,7 @@ const Projects = (props) => {
                 <a type='link' href="https://github.com/KirkBetzina/Calorie-and-macro-calculation" class=''>Github Read Me</a>
                 </div>
             </div>
-        </>
+        </cards>
     )
 }
 export default Projects  
