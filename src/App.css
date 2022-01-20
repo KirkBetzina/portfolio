@@ -2,3 +2,17 @@
   text-align: center;
 }
 
+.Card1 {
+  border: 1px solid red;
+  width: 18rem; 
+}
+
+.Card2 {
+  border: 1px solid red;
+  width: 18rem;
+}
+
+.Card3 {
+  border: 1px solid red;
+  width: 18rem;
+}
