@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       
       <>
+        <h1 className='h1'>Take a look and see what I am working on!</h1>
             <div className='Card1'>
                 <img src='' className='car-image-top' alt=''/>
                 <div className='card-body'></div>
