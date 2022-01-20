@@ -1,35 +1,43 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,700;1,300&display=swap');
 .App {
+  color: rgb(255, 255, 255) ;
   text-align: center;
   background: linear-gradient(to right, #0cbaba 50%, #380036, darksalmon);
 }
 
 .h1 {
-  font-family: 'Merriweather', serif;
-  border: 1px solid red;
+  font-family: 'Merriweather', serif; 
 }
 
 .Card1 {
   font-family: 'Merriweather', serif;
-  border: 1px solid red;
   width: 18rem; 
   margin-left: 40%;
   margin-top: 30px;
 }
+a.btn.btn-danger1 {
+  color: white;
+}
 
 .Card2 {
   font-family: 'Merriweather', serif;
-  border: 1px solid red;
   width: 18rem;
   margin-left: 40%;
   margin-top: 30px;
 }
 
+a.btn.btn-danger2 {
+  color: white;
+}
+
 .Card3 {
   font-family: 'Merriweather', serif;
-  border: 1px solid red;
   width: 18rem;
   margin-left: 40%;
   margin-top: 30px;
+}
+
+a.btn.btn-danger3 {
+  color: white;
 }
