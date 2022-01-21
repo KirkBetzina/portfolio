@@ -30,6 +30,10 @@ a.btn.btn-danger1 {
 a.btn.btn-danger2 {
   color: white;
 }
+a.btn.btn-danger22 {
+  color: whitesmoke;
+  margin-left: 10px;
+}
 
 .Card3 {
   font-family: 'Merriweather', serif;
@@ -40,4 +44,9 @@ a.btn.btn-danger2 {
 
 a.btn.btn-danger3 {
   color: white;
+}
+
+a.btn.btn-danger33 {
+  color: whitesmoke;
+  margin-left: 10px;
 }
