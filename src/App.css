@@ -16,6 +16,8 @@ html, body {
 
 .h1 {
   font-family: 'Merriweather', serif; 
+  padding-right: 150px;
+  /* padding-top: 100vh; */
 }
 
 .Card1 {
