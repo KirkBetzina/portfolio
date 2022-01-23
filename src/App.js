@@ -29,7 +29,15 @@ function App() {
                 <h5 className='card-title'>Mintbean.io Hackathon submission</h5>
                 <p className='card-text'>My first Hackathon with Mintbean.io this project was rated as a top 16% of all the entries. </p>
                 <a target="_blank" rel="noopener noreferrer" href='https://github.com/KirkBetzina/mintbeancardgame1' className='btn btn-danger3'>github</a>
-                <a target="_blank" rel='noopener noreferrer' href='https://angry-volhard-52c28f.netlify.app/' className='btn btn-danger33'>Live Site</a>
+                <a target="_blank" rel='noopener noreferrer' href='https://angry-volhard-52c28f.netlify.app' className='btn btn-danger33'>Live Site</a>
+            </div>
+            <div className='Card4'>
+                <img src='' className='car-image-top' alt=''/>
+                <div className='card-body'></div>
+                <h5 className='card-title'>Portfolio Website</h5>
+                <p className='card-text'>This is the portfolio webstite I am curenttly building! </p>
+                <a target="_blank" rel="noopener noreferrer" href='https://github.com/KirkBetzina/portfolio' className='btn btn-danger3'>github</a>
+                <a target="_blank" rel='noopener noreferrer' href='https://nervous-benz-0a1711.netlify.app' className='btn btn-danger44'>Live Site</a>
             </div>
         </>
         

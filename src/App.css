@@ -17,8 +17,8 @@ html, body {
 
 .h1 {
   font-family: 'Merriweather', serif; 
-  padding-right: 150px;
-  /* padding-top: 100vh; */
+  font-size: 66px;
+  margin-top: 40%;
 }
 
 .Card1 {
@@ -58,6 +58,21 @@ a.btn.btn-danger3 {
 }
 
 a.btn.btn-danger33 {
+  color: whitesmoke;
+  margin-left: 10px;
+}
+
+.Card4 {
+  font-family: 'Merriweather', serif;
+  width: 18rem;
+  margin-left: 40%;
+  margin-top: 30px;
+}
+
+a.btn.btn-danger4 {
+  color: white;
+}
+a.btn.btn-danger44 {
   color: whitesmoke;
   margin-left: 10px;
 }
