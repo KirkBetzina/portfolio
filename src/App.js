@@ -35,7 +35,7 @@ function App() {
                 <img src='' className='car-image-top' alt=''/>
                 <div className='card-body'></div>
                 <h2 className='card-title'>Portfolio Website</h2>
-                <p className='card-text'>This is the portfolio webstite I am curenttly building! </p>
+                <p className='card-text'>This is the portfolio webstite I am currently building! </p>
                 <a target="_blank" rel="noopener noreferrer" href='https://github.com/KirkBetzina/portfolio' className='btn btn-danger3'>github</a>
                 <a target="_blank" rel='noopener noreferrer' href='https://nervous-benz-0a1711.netlify.app' className='btn btn-danger44'>Live Site</a>
             </div>
