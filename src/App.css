@@ -6,7 +6,11 @@ html, body {
   height: 100vh;
   padding: 0%;
   margin: 0%;
-  background: linear-gradient(to right, #0cbaba 50%, #380036, darksalmon);
+  background: #959595;
+  background: #FF0000;
+  background: -webkit-linear-gradient(to left, #FF0000 0%, #000000 100%);
+  background: -moz-linear-gradient(to left, #FF0000 0%, #000000 100%);
+  background: linear-gradient(to left, #FF0000 0%, #000000 100%);
 }
 
 .App {
@@ -17,16 +21,18 @@ html, body {
 
 .h1 {
   font-family: 'Merriweather', serif; 
+  text-shadow: 3px 3px 2px rgba(0, 0, 0, 1);
   font-size: 66px;
   margin-top: 10%;
 }
 
 .Card1 {
   font-family: 'Merriweather', serif;
+  text-shadow: 3px 3px 2px rgba(0, 0, 0, 1);
   width: 18rem; 
   margin-left: 45%;
   margin-top: 30px;
-  background: #993da117;
+  background: #993da100;
   border-radius: 20px;
 }
 a.btn.btn-danger1 {
@@ -35,6 +41,7 @@ a.btn.btn-danger1 {
 
 .Card2 {
   font-family: 'Merriweather', serif;
+  text-shadow: 3px 3px 2px rgba(0, 0, 0, 1);
   width: 18rem;
   margin-left: 45%;
   margin-top: 30px;
@@ -52,6 +59,7 @@ a.btn.btn-danger22 {
 
 .Card3 {
   font-family: 'Merriweather', serif;
+  text-shadow: 3px 3px 2px rgba(0, 0, 0, 1);
   width: 18rem;
   margin-left: 45%;
   margin-top: 30px;
@@ -70,6 +78,7 @@ a.btn.btn-danger33 {
 
 .Card4 {
   font-family: 'Merriweather', serif;
+  text-shadow: 3px 3px 2px rgba(0, 0, 0, 1);
   width: 18rem;
   margin-left: 45%;
   margin-top: 30px;
