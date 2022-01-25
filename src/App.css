@@ -18,14 +18,16 @@ html, body {
 .h1 {
   font-family: 'Merriweather', serif; 
   font-size: 66px;
-  margin-top: 40%;
+  margin-top: 10%;
 }
 
 .Card1 {
   font-family: 'Merriweather', serif;
   width: 18rem; 
-  margin-left: 40%;
+  margin-left: 45%;
   margin-top: 30px;
+  background: #993da117;
+  border-radius: 20px;
 }
 a.btn.btn-danger1 {
   color: white;
@@ -34,8 +36,10 @@ a.btn.btn-danger1 {
 .Card2 {
   font-family: 'Merriweather', serif;
   width: 18rem;
-  margin-left: 40%;
+  margin-left: 45%;
   margin-top: 30px;
+  background: #993da117;
+  border-radius: 20px;
 }
 
 a.btn.btn-danger2 {
@@ -49,8 +53,10 @@ a.btn.btn-danger22 {
 .Card3 {
   font-family: 'Merriweather', serif;
   width: 18rem;
-  margin-left: 40%;
+  margin-left: 45%;
   margin-top: 30px;
+  background: #993da117;
+  border-radius: 20px;
 }
 
 a.btn.btn-danger3 {
@@ -65,8 +71,10 @@ a.btn.btn-danger33 {
 .Card4 {
   font-family: 'Merriweather', serif;
   width: 18rem;
-  margin-left: 40%;
+  margin-left: 45%;
   margin-top: 30px;
+  background: #993da117;
+  border-radius: 20px;
 }
 
 a.btn.btn-danger4 {
