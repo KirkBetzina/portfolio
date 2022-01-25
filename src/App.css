@@ -93,3 +93,11 @@ a.btn.btn-danger44 {
   color: whitesmoke;
   margin-left: 10px;
 }
+
+.socials {
+  display: flex;
+  justify-content: space-between;
+  max-width: 400px;
+  margin-left: 43%;
+  margin-top: 25px;
+}

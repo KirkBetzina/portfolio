@@ -1,10 +1,13 @@
-
+import React from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faLinkedin, faGithub, faTwitch } from '@fortawesome/free-brands-svg-icons';
 import './App.css';
 
 
 function App() {
   return (
     <div className="App">
+      
       
       <>
         <h1 className='h1'>Take a look and see what I am working on!</h1>
@@ -39,6 +42,12 @@ function App() {
                 <a target="_blank" rel="noopener noreferrer" href='https://github.com/KirkBetzina/portfolio' className='btn btn-danger3'>github</a>
                 <a target="_blank" rel='noopener noreferrer' href='https://nervous-benz-0a1711.netlify.app' className='btn btn-danger44'>Live Site</a>
             </div>
+            <div className='socials'>
+              <FontAwesomeIcon icon={faGithub} />
+              <FontAwesomeIcon icon={faTwitch} />
+              <FontAwesomeIcon icon={faLinkedin} />
+            </div>
+            
         </>
         
     </div>
