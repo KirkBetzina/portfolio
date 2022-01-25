@@ -95,9 +95,10 @@ a.btn.btn-danger44 {
 }
 
 .socials {
+  font-size: xx-large;
   display: flex;
   justify-content: space-between;
   max-width: 400px;
-  margin-left: 43%;
-  margin-top: 25px;
+  margin-left: 1080px;
+  margin-top: 55px;
 }
